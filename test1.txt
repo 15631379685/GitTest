@@ -8,4 +8,4 @@ my name is maria
 继续测试
 add func1
 
-add func2 
+add func2
